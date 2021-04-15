@@ -1,3 +1,3 @@
 base:
   '*':
-    - foo
+    - another_one
